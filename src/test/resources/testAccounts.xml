@@ -1,0 +1,8 @@
+<accounts>
+    <account iban="PL61109010140000071219812870">
+        <name>name4</name>
+        <currency>PLN</currency>
+        <balance>0</balance>
+        <closingDate>2029-10-11</closingDate>
+    </account>
+</accounts>
